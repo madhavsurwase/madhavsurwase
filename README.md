@@ -66,18 +66,18 @@
 
 <br>
 <br>
- 🔭 Currently studying at JSPM's RSCOE <br>
-     SY-BTech <br>
-     Branch <b>Information Technology</b>
+ 🔭 Currently studying at PCCOER <br>
+     TE-Computer Science <br>
+    
  </div>
 <div align="center"> 
-  <a href="mailto:yashlende93@gmail.com">
+  <a href="mailto:madhav.surwase20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/yash-lende-852706259/" target="_blank">
+  <a href="(https://linkedin.com/in/madhav-surwase-072510259) target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://yashl3616.github.io/yashportfolio/" target="_blank">
+  <a href=" " target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
  </a> 
 </div>
@@ -117,7 +117,6 @@
 
 
 
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YashL3616&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
 <!--<div align="center" style="background-color: black; padding: 20px;">
        <img src="https://streak-stats.demolab.com?user=YashL3616&theme=transparent&hide_border=true"/>
