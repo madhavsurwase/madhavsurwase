@@ -118,14 +118,6 @@
 
 
 
-<!--<div align="center" style="background-color: black; padding: 20px;">
-       <img src="https://streak-stats.demolab.com?user=YashL3616&theme=transparent&hide_border=true"/>
-</div>-->
-<br>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashL3616&theme=tokyonight&hide_border=true" />
-<p>
-<br>
 
 
 
