@@ -12,7 +12,7 @@
 
 <br>
 <br>
- 🔭 Currently studying at PCCOER <br>
+ 🔭 Currently studying at PCCOER! <br>
      TE-Computer Science <br>
     
  </div>
