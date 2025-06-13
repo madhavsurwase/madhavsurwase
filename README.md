@@ -62,9 +62,9 @@
   - BookFlix App
 
 - 🎯 **Internship**:
-- **Edunet Foundation – EY GDS Next Gen | Full Stack Developer Intern   Dec 2024 - Jan 2025 **
-- **i2ispecialist Technologies Pvt. Ltd | MERN Stack Developer Intern   Feb 2025 - April 2025 **
-- **Celebal Technologies | React JS Intern  (Current) **
+- **Edunet Foundation – EY GDS Next Gen | Full Stack Developer Intern             Dec 2024 - Jan 2025**
+- **i2ispecialist Technologies Pvt. Ltd | MERN Stack Developer Intern             Feb 2025 - April 2025**
+- **Celebal Technologies | React JS Intern                                         (Current)**
 
 - 🧠 **Coding**:
   - Solved 350+ problems on **LeetCode** with C++, Python, and SQL
