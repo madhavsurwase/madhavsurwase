@@ -66,7 +66,7 @@
 Dec 2024 – Jan 2025
 - **i2ispecialist Technologies Pvt. Ltd** | MERN Stack Developer Intern
 Feb 2025 – Apr 2025
--**Celebal Technologies** | React JS Intern
+- **Celebal Technologies** | React JS Intern
 Currently
 
 
