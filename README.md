@@ -54,31 +54,26 @@
 <h3 align="left">📌 Highlights:</h3>
 
 - 🛠️ **Projects**:
-  - Airbnb Clone
-  - Email Template Builder
-  - Earth Impact (carbon footprint calculator)
-  - React Form
-  - To-Do App with React Validation
-  - BookFlix App
+  - Airbnb Clone  
+  - Email Template Builder  
+  - Earth Impact (carbon footprint calculator)  
+  - React Form  
+  - To-Do App with React Validation  
+  - BookFlix App  
 
-- 🎯 **Internship**:
-- **Edunet Foundation – EY GDS Next Gen** | Full Stack Developer Intern
-
-- **i2ispecialist Technologies Pvt. Ltd** | MERN Stack Developer Intern
-
-- **Celebal Technologies** | React JS Intern
-Currently
-
-
+- 🎯 **Internships**:
+  - **Edunet Foundation – EY GDS Next Gen** | *Full Stack Developer Intern*  
+  - **i2ispecialist Technologies Pvt. Ltd** | *MERN Stack Developer Intern*  
+  - **Celebal Technologies** | *React JS Intern (Currently)*  
 
 - 🧠 **Coding**:
-  - Solved 350+ problems on **LeetCode** with C++, Python, and SQL
-  - Maintained a **150+ day streak** on LeetCode
+  - Solved **350+ problems** on **LeetCode** using **C++, Python, SQL**  
+  - Maintained a **150+ day streak** on LeetCode  
 
 - 📢 **Management & Events**:
-  - Head of Management for **Roborashtra 2K25**
-  - Led PR strategy in collaboration with **DRDO** & **DIAT**
-  - Team Lead for FY/SY **PBL Projects**
+  - Head of Management for **Roborashtra 2K25**  
+  - Led PR strategy in collaboration with **DRDO** & **DIAT**  
+  - Team Lead for FY/SY **PBL Projects**  
 
 ---
 
