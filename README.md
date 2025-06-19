@@ -59,7 +59,8 @@
   - Earth Impact (carbon footprint calculator)  
   - React Form  
   - To-Do App with React Validation  
-  - BookFlix App  
+  - BookFlix App
+  - Admin Dashboard With React
 
 - 🎯 **Internships**:
   - **Edunet Foundation – EY GDS Next Gen** | *Full Stack Developer Intern*  
