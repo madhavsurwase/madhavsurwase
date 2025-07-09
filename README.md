@@ -61,6 +61,9 @@
   - To-Do App with React Validation  
   - BookFlix App
   - Admin Dashboard With React
+  - Spotify Clone
+  - AI-powered-posture-analysis
+
 
 - 🎯 **Internships**:
   - **Edunet Foundation – EY GDS Next Gen** | *Full Stack Developer Intern*  
