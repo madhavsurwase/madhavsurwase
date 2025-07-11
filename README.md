@@ -54,15 +54,25 @@
 <h3 align="left">📌 Highlights:</h3>
 
 - 🛠️ **Projects**:
-  - Airbnb Clone  
-  - Email Template Builder  
-  - Earth Impact (carbon footprint calculator)  
-  - React Form  
-  - To-Do App with React Validation  
-  - BookFlix App
-  - Admin Dashboard With React
-  - Spotify Clone
-  - AI-powered-posture-analysis
+🛠️ Projects:
+
+Airbnb Clone – Replicated key features like listings, bookings, filters, and responsive UI.
+
+Email Template Builder – Drag-and-drop tool for creating responsive email templates.
+
+Earth Impact – A carbon footprint calculator that visualizes impact based on user inputs.
+
+React Form – Dynamic form builder with validation and submission handling.
+
+To-Do App with Validation – Task manager with React validation and persistent storage.
+
+BookFlix App – A book browsing app with search and category filters (inspired by Netflix UI).
+
+Admin Dashboard – A data-rich dashboard with charts, tables, and user management.
+
+Spotify Clone – Music streaming UI clone with playlist, playback simulation, and styling.
+
+AI-powered Posture Analysis – Real-time posture detection using MediaPipe and TensorFlow, deployed with full-stack integration.
 
 
 - 🎯 **Internships**:
